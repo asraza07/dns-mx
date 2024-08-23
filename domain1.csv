@@ -1,0 +1,249 @@
+domain1,mx1,provider1
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@JAZZ.COM.PK,0 jazz-com-pk.mail.protection.outlook.com.,Microsoft
+@ssgc.com.pk,15 mail2.ssgc.com.pk. / 25 mx.super.net.pk. / 10 mail.ssgc.com.pk. / 5 mail3.ssgc.com.pk. / 20 maildr.ssgc.com.pk.,Third Party
+@ubl.com.pk,0 mxa-0018f001.gslb.pphosted.com. / 0 mxb-0018f001.gslb.pphosted.com.,Third Party
+ ,,N/A
+ ,,N/A
+@keenu.pk,10 alt4.aspmx.l.google.com. / 1 aspmx.l.google.com. / 5 alt2.aspmx.l.google.com. / 5 alt1.aspmx.l.google.com. / 10 alt3.aspmx.l.google.com.,Google
+@keenu.pk,10 alt4.aspmx.l.google.com. / 1 aspmx.l.google.com. / 5 alt2.aspmx.l.google.com. / 5 alt1.aspmx.l.google.com. / 10 alt3.aspmx.l.google.com.,Google
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@sc.com,10 cluster4.us.messagelabs.com. / 20 cluster4a.us.messagelabs.com.,Third Party
+@mmm.com,10 mx2.hc3069-42.iphmx.com. / 10 mx1.hc3069-42.iphmx.com.,Third Party
+@mmm.com,10 mx2.hc3069-42.iphmx.com. / 10 mx1.hc3069-42.iphmx.com.,Third Party
+@khanassociates.com.pk,10 khanassociates-com-pk.mail.protection.outlook.com.,Microsoft
+@khanassociates.com.pk,10 khanassociates-com-pk.mail.protection.outlook.com.,Microsoft
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@azizgrp.com,10 aspmx2.googlemail.com. / 0 aspmx.l.google.com. / 5 alt1.aspmx.l.google.com. / 10 aspmx3.googlemail.com. / 5 alt2.aspmx.l.google.com.,Google
+@a2zepayments.com,1 aspmx.l.google.com.,Google
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@maccagroup.com,0 maccagroup.com.,Third Party
+@keeptuckin.com,MX NOT FOUND,N/A
+@keeptuckin.com,MX NOT FOUND,N/A
+@keeptuckin.com,MX NOT FOUND,N/A
+@accompany.com.pk,10 mx.siteprotect.com.,Third Party
+ ,,N/A
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@adamjeeinsurance.com,0 adamjeeinsurance-com.mail.protection.outlook.com.,Microsoft
+@adamjeeinsurance.com,0 adamjeeinsurance-com.mail.protection.outlook.com.,Microsoft
+@adcompk.com,30 lastmx.spamexperts.net. / 10 mx.spamexperts.com. / 20 fallbackmx.spamexperts.eu.,Third Party
+@adcompk.com,30 lastmx.spamexperts.net. / 10 mx.spamexperts.com. / 20 fallbackmx.spamexperts.eu.,Third Party
+@adsells.biz,0 mailbox.adsells.biz.,Third Party
+@adsells.biz,0 mailbox.adsells.biz.,Third Party
+@adells.biz,DOMAIN NON EXIST,N/A
+@advanspakistan.com,30 lastmx.spamexperts.net. / 20 fallbackmx.spamexperts.eu. / 10 mx.spamexperts.com.,Third Party
+@advanspakistan.com,30 lastmx.spamexperts.net. / 20 fallbackmx.spamexperts.eu. / 10 mx.spamexperts.com.,Third Party
+@khanassociates.com.pk,10 khanassociates-com-pk.mail.protection.outlook.com.,Microsoft
+@khanassociates.com.pk,10 khanassociates-com-pk.mail.protection.outlook.com.,Microsoft
+@khanassociates.com.pk,10 khanassociates-com-pk.mail.protection.outlook.com.,Microsoft
+@khanassociates.com.pk,10 khanassociates-com-pk.mail.protection.outlook.com.,Microsoft
+@yahoo.com,1 mta5.am0.yahoodns.net. / 1 mta7.am0.yahoodns.net. / 1 mta6.am0.yahoodns.net.,Third Party
+@appl.com.pk,0 mx-s5.vivawebhost.com.,Third Party
+@aku.edu,10 aku-edu.mail.protection.outlook.com.,Microsoft
+@agrohub.com.pk,30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com. / 20 mx20.antispam.mailspamprotection.com.,Third Party
+@agrohub.com.pk,30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com. / 20 mx20.antispam.mailspamprotection.com.,Third Party
+@agrohub.com.pk,30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com. / 20 mx20.antispam.mailspamprotection.com.,Third Party
+@agrohub.com.pk,30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com. / 20 mx20.antispam.mailspamprotection.com.,Third Party
+@agrohub.com.pk,30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com. / 20 mx20.antispam.mailspamprotection.com.,Third Party
+@agrohub.com.pk,30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com. / 20 mx20.antispam.mailspamprotection.com.,Third Party
+@airblue.com,10 mail.airblue.com.,Third Party
+@aku.edu,10 aku-edu.mail.protection.outlook.com.,Microsoft
+@aku.edu,10 aku-edu.mail.protection.outlook.com.,Microsoft
+@albaraka.com.pk,10 mail1.albaraka.com.pk. / 0 mail.albaraka.com.pk.,Third Party
+@albaraka.com.pk,10 mail1.albaraka.com.pk. / 0 mail.albaraka.com.pk.,Third Party
+@albaraka.com.pk,10 mail1.albaraka.com.pk. / 0 mail.albaraka.com.pk.,Third Party
+@albaraka.com.pk,10 mail1.albaraka.com.pk. / 0 mail.albaraka.com.pk.,Third Party
+@albaraka.com.pk,10 mail1.albaraka.com.pk. / 0 mail.albaraka.com.pk.,Third Party
+ ,,N/A
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@almeezangroup.com,10 amim.in.tmes-sg.trendmicro.com.,Third Party
+@alnoorpetro.com,10 mail.alnoorpetro.com.,Third Party
+@alnoorpetro.com,10 mail.alnoorpetro.com.,Third Party
+@hotmail.com,2 hotmail-com.olc.protection.outlook.com.,Microsoft
+@aasml.com,0 aasml.com.,Third Party
+@aasml.com,0 aasml.com.,Third Party
+@adtpk.com,0 adtpk.com.,Third Party
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@alfalahclsa.com,1 smtp.google.com.,Google
+@alfalahamc.com,0 alfalahamc-com.mail.protection.outlook.com.,Microsoft
+ ,,N/A
+@alghazitractors.com,10 eu-smtp-inbound-2.mimecast.com.,Third Party
+@alghazitractors.com,10 eu-smtp-inbound-2.mimecast.com.,Third Party
+@alibuilders.net,10 mx2.hostinger.com. / 5 mx1.hostinger.com.,Third Party
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+@abl.com,5 mail3.abl.com.,Third Party
+@abl.com,5 mail3.abl.com.,Third Party
+@abl.com,5 mail3.abl.com.,Third Party
+@alliedpaints.com.pk,10 mail.alliedpaints.com.pk.,Third Party
+@alliedpaints.com.pk,10 mail.alliedpaints.com.pk.,Third Party
+@hotmail.com,2 hotmail-com.olc.protection.outlook.com.,Microsoft
+@hotmail.com,2 hotmail-com.olc.protection.outlook.com.,Microsoft
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@alphatrack.pk,5 mail.alphatrack.pk.,Third Party
+@alphatrack.pk,5 mail.alphatrack.pk.,Third Party
+@alphatrack.pk,5 mail.alphatrack.pk.,Third Party
+ ,,N/A
+@altpay.biz,10 mail.altpay.biz.,Third Party
+@dummy.com.pk,DOMAIN NON EXIST,N/A
+@pk.mail.amadeus.com,10 pk-mail-amadeus-com.mail.protection.outlook.com.,Microsoft
+@pk.mail.amadeus.com,10 pk-mail-amadeus-com.mail.protection.outlook.com.,Microsoft
+@sgbworld.com,10 ALT4.ASPMX.L.GOOGLE.com. / 5 ALT2.ASPMX.L.GOOGLE.com. / 1 ASPMX.L.GOOGLE.com. / 10 ALT3.ASPMX.L.GOOGLE.com. / 5 ALT1.ASPMX.L.GOOGLE.com.,Google
+@amis.com.pk,20 mx2.zoho.com. / 50 mx3.zoho.com. / 10 mx.zoho.com.,Third Party
+@hotmail.com,2 hotmail-com.olc.protection.outlook.com.,Microsoft
+@apllogistics.com,20 us-smtp-inbound-2.mimecast.com. / 10 us-smtp-inbound-1.mimecast.com.,Third Party
+@apllogistics.com,20 us-smtp-inbound-2.mimecast.com. / 10 us-smtp-inbound-1.mimecast.com.,Third Party
+@apriljune.com,0 apriljune-com.mail.protection.outlook.com.,Microsoft
+@aptma.org.pk,0 mail.aptma.org.pk.,Third Party
+@adspl.pk,0 adspl-pk.mail.protection.outlook.com.,Microsoft
+@arcoplastics.com,0 mail.arcoplastics.com.,Third Party
+@arcoplastics.com,0 mail.arcoplastics.com.,Third Party
+@arifhabibltd.com,0 arifhabibltd-com.mail.protection.outlook.com.,Microsoft
+@arifhabibltd.com,0 arifhabibltd-com.mail.protection.outlook.com.,Microsoft
+@arifhabibltd.com,0 arifhabibltd-com.mail.protection.outlook.com.,Microsoft
+@arifhabibltd.com,0 arifhabibltd-com.mail.protection.outlook.com.,Microsoft
+@artisticmilliners.com,50 mx3.zoho.com. / 10 mx.zoho.com. / 20 mx2.zoho.com.,Third Party
+@upl-ltd.com,30 mailstream-west.mxrecord.io. / 20 mailstream-east.mxrecord.io. / 10 mailstream-central.mxrecord.mx. / 5 mailstream-india-primary.mxrecord.mx.,Third Party
+@upl-ltd.com,30 mailstream-west.mxrecord.io. / 20 mailstream-east.mxrecord.io. / 10 mailstream-central.mxrecord.mx. / 5 mailstream-india-primary.mxrecord.mx.,Third Party
+ ,,N/A
+ ,,N/A
+@asiainsurance.com.pk,0 mail.asiainsurance.com.pk.,Third Party
+@askaribank.com.pk,10 smtp.askaribank.com.pk. / 40 d157901b.ess.barracudanetworks.com. / 20 smtp2.askaribank.com.pk.,Third Party
+@askaribank.com.pk,10 smtp.askaribank.com.pk. / 40 d157901b.ess.barracudanetworks.com. / 20 smtp2.askaribank.com.pk.,Third Party
+@askaribank.com.pk,10 smtp.askaribank.com.pk. / 40 d157901b.ess.barracudanetworks.com. / 20 smtp2.askaribank.com.pk.,Third Party
+@askaribank.com.pk,10 smtp.askaribank.com.pk. / 40 d157901b.ess.barracudanetworks.com. / 20 smtp2.askaribank.com.pk.,Third Party
+@askaribank.com.pk,10 smtp.askaribank.com.pk. / 40 d157901b.ess.barracudanetworks.com. / 20 smtp2.askaribank.com.pk.,Third Party
+@askaribank.com.pk,10 smtp.askaribank.com.pk. / 40 d157901b.ess.barracudanetworks.com. / 20 smtp2.askaribank.com.pk.,Third Party
+@fccl.com.pk,0 mta2.nayatel.com. / 0 mta.nayatel.com. / 0 mta3.nayatel.com. / 0 mta1.nayatel.com.,Third Party
+@awt.com.pk,0 mta1.nayatel.com. / 5 mta2.nayatel.com.,Third Party
+@awt.com.pk,0 mta1.nayatel.com. / 5 mta2.nayatel.com.,Third Party
+@askarilife.com,10 askarilife-com.mail.eo.outlook.com. / 5 askarilife-com.mail.protection.outlook.com. / 0 askarilife.in.tmes-sg.trendmicro.com.,Microsoft
+@askarilife.com,10 askarilife-com.mail.eo.outlook.com. / 5 askarilife-com.mail.protection.outlook.com. / 0 askarilife.in.tmes-sg.trendmicro.com.,Microsoft
+@askarilife.com,10 askarilife-com.mail.eo.outlook.com. / 5 askarilife-com.mail.protection.outlook.com. / 0 askarilife.in.tmes-sg.trendmicro.com.,Microsoft
+@hassanlimited.com,10 mail.hassanlimited.com.,Third Party
+@dawnbread.net,0 fhg.webitech.org.,Third Party
+@dawnbread.net,0 fhg.webitech.org.,Third Party
+@dawnbread.net,0 fhg.webitech.org.,Third Party
+@dawnbread.net,0 fhg.webitech.org.,Third Party
+@dawnbread.net,0 fhg.webitech.org.,Third Party
+@dawnbread.net,0 fhg.webitech.org.,Third Party
+@lhr.atlashonda.com.pk,10 qs4557.pair.com. / 0 atlashonda.in.tmes-sg.trendmicro.com.,Third Party
+@lhr.atlashonda.com.pk,10 qs4557.pair.com. / 0 atlashonda.in.tmes-sg.trendmicro.com.,Third Party
+@atlas.com.pk,50 qs4245.pair.com.,Third Party
+@autosoftdynamics.com,10 mxb-002d2f01.gslb.pphosted.com. / 10 mxa-002d2f01.gslb.pphosted.com.,Third Party
+@autosoftdynamics.com,10 mxb-002d2f01.gslb.pphosted.com. / 10 mxa-002d2f01.gslb.pphosted.com.,Third Party
+@avari.com,0 avari-com.mail.protection.outlook.com.,Microsoft
+@chaiwala.com,10 chaiwala.com.mx.one.com.,Third Party
+@chaiwala.com,10 chaiwala.com.mx.one.com.,Third Party
+@gmail.com,30 alt3.gmail-smtp-in.l.google.com. / 10 alt1.gmail-smtp-in.l.google.com. / 40 alt4.gmail-smtp-in.l.google.com. / 20 alt2.gmail-smtp-in.l.google.com. / 5 gmail-smtp-in.l.google.com.,Google
+@beenergy.co,0 beenergy-co.mail.protection.outlook.com.,Microsoft
+@bankalhabib.com,1 mx-202-125-136-101.bankalhabib.com. / 2 mx-117-20-16-131.bankalhabib.com. / 3 smtp03.bankalhabib.com. / 4 smtp04.bankalhabib.com.,Third Party
+@bankalhabib.com,1 mx-202-125-136-101.bankalhabib.com. / 2 mx-117-20-16-131.bankalhabib.com. / 3 smtp03.bankalhabib.com. / 4 smtp04.bankalhabib.com.,Third Party
+@bankalhabib.com,1 mx-202-125-136-101.bankalhabib.com. / 2 mx-117-20-16-131.bankalhabib.com. / 3 smtp03.bankalhabib.com. / 4 smtp04.bankalhabib.com.,Third Party
+@bankalhabib.com,1 mx-202-125-136-101.bankalhabib.com. / 2 mx-117-20-16-131.bankalhabib.com. / 3 smtp03.bankalhabib.com. / 4 smtp04.bankalhabib.com.,Third Party
+@bankalhabib.com,1 mx-202-125-136-101.bankalhabib.com. / 2 mx-117-20-16-131.bankalhabib.com. / 3 smtp03.bankalhabib.com. / 4 smtp04.bankalhabib.com.,Third Party
+ ,,N/A
+@ibm.com,5 mx0a-001b2d05.pphosted.com. / 5 mx0b-001b2d05.pphosted.com.,Third Party
+@ibm.com,5 mx0a-001b2d05.pphosted.com. / 5 mx0b-001b2d05.pphosted.com.,Third Party
+@ibm.com,5 mx0a-001b2d05.pphosted.com. / 5 mx0b-001b2d05.pphosted.com.,Third Party
+@ibm.com,5 mx0a-001b2d05.pphosted.com. / 5 mx0b-001b2d05.pphosted.com.,Third Party
+@ibm.com,5 mx0a-001b2d05.pphosted.com. / 5 mx0b-001b2d05.pphosted.com.,Third Party
+@ibm.com,5 mx0a-001b2d05.pphosted.com. / 5 mx0b-001b2d05.pphosted.com.,Third Party
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+ ,,N/A
+ ,,N/A
+ ,,N/A
+ ,,N/A
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalfalah.com,0 bankalfalah-com.mail.protection.outlook.com.,Microsoft
+@bankalhabib.com,1 mx-202-125-136-101.bankalhabib.com. / 2 mx-117-20-16-131.bankalhabib.com. / 3 smtp03.bankalhabib.com. / 4 smtp04.bankalhabib.com.,Third Party
+ ,,N/A
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bankislami.com.pk,10 mail1.bankislami.com.pk. / 100 mail3.bankislami.com.pk. / 20 mail2.bankislami.com.pk.,Third Party
+@bok.com.pk,0 bok-com-pk.mail.protection.outlook.com.,Microsoft
+@soneribank.com,2 soneribank.in.tmes-sg.trendmicro.com. / 45 smtp7.soneribank.com. / 5 smtp5.soneribank.com.,Third Party
+@bop.com.pk,15 smtp1.bop.com.pk. / 25 smtp2.bop.com.pk. / 32767 ms27951232.msv1.invalid.,Third Party
+@bayer.com,10 bayer-com.mail.protection.outlook.com.,Microsoft
+@bayer.com,10 bayer-com.mail.protection.outlook.com.,Microsoft
+@baysinternational.com,0 baysinternational-com.mail.protection.outlook.com.,Microsoft
+@bbnenergy.com,0 host.techandaz.com.,Third Party
+@bbnenergy.com,0 host.techandaz.com.,Third Party
+@beenergy.co,0 beenergy-co.mail.protection.outlook.com.,Microsoft
+@bbocompany.com,10 mx00.ionos.com. / 11 mx01.ionos.com.,Third Party
+@dreamnet.com.pk,0 dreamnet-com-pk.mail.protection.outlook.com.,Microsoft
+@bestway.com.pk,15 mail01.bestway.com.pk. / 10 besg01.bestway.com.pk.,Third Party
+@bestway.com.pk,15 mail01.bestway.com.pk. / 10 besg01.bestway.com.pk.,Third Party
+@bluearc.com.pk,0 mail.bluearc.com.pk.,Third Party
+ ,,N/A
+ ,,N/A
+@brainchild.net,10 alt3.aspmx.l.google.com. / 10 alt4.aspmx.l.google.com. / 5 alt1.aspmx.l.google.com. / 5 alt2.aspmx.l.google.com. / 1 aspmx.l.google.com. / 0 brainchild-net.mail.protection.outlook.com.,Google
+@jazz.com.pk,0 jazz-com-pk.mail.protection.outlook.com.,Microsoft
+@brandh2o.com,10 alt4.aspmx.l.google.com. / 1 aspmx.l.google.com. / 10 alt3.aspmx.l.google.com. / 5 alt2.aspmx.l.google.com. / 5 alt1.aspmx.l.google.com.,Google
+ ,,N/A
+@bat.com,0 bat-com.mail.protection.outlook.com.,Microsoft
+@fco.gov.uk,10 fco-gov-uk.mail.protection.outlook.com.,Microsoft
+@jsgroup.pk,20 mx20.antispam.mailspamprotection.com. / 30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com.,Third Party
+@jsgroup.pk,20 mx20.antispam.mailspamprotection.com. / 30 mx30.antispam.mailspamprotection.com. / 10 mx10.antispam.mailspamprotection.com.,Third Party
+@pkbsl.com,20 d273777b.ess.barracudanetworks.com. / 10 d273777a.ess.barracudanetworks.com.,Third Party
+@pkbsl.com,20 d273777b.ess.barracudanetworks.com. / 10 d273777a.ess.barracudanetworks.com.,Third Party
+@pkbsl.com,20 d273777b.ess.barracudanetworks.com. / 10 d273777a.ess.barracudanetworks.com.,Third Party
+ ,,N/A
+@bt.com,10 btgroupcloud-mail-onmicrosoft-com.mail.protection.outlook.com.,Microsoft
+@bt.com,10 btgroupcloud-mail-onmicrosoft-com.mail.protection.outlook.com.,Microsoft
+@bt.com,10 btgroupcloud-mail-onmicrosoft-com.mail.protection.outlook.com.,Microsoft
+@bt.com,10 btgroupcloud-mail-onmicrosoft-com.mail.protection.outlook.com.,Microsoft
+@jazz.com.pk,0 jazz-com-pk.mail.protection.outlook.com.,Microsoft
+@bureauveritas.com,20 mxb-0037c801.gslb.pphosted.com. / 20 mxa-0037c801.gslb.pphosted.com.,Third Party
+@bureauveritas.com,20 mxb-0037c801.gslb.pphosted.com. / 20 mxa-0037c801.gslb.pphosted.com.,Third Party
+@bureauveritas.com,20 mxb-0037c801.gslb.pphosted.com. / 20 mxa-0037c801.gslb.pphosted.com.,Third Party
+@bureauveritas.com,20 mxb-0037c801.gslb.pphosted.com. / 20 mxa-0037c801.gslb.pphosted.com.,Third Party
+@bykea.com,1 aspmx.l.google.com. / 10 alt3.aspmx.l.google.com. / 10 alt4.aspmx.l.google.com. / 5 alt1.aspmx.l.google.com. / 5 alt2.aspmx.l.google.com.,Google
+@cleveltech.com,0 mail.cleveltech.com.,Third Party
+@mobizone.com.pk,10 mail.mobizone.com.pk.,Third Party
+@mobizone.com.pk,10 mail.mobizone.com.pk.,Third Party
