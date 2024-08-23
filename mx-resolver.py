@@ -15,20 +15,22 @@ def read_column_to_list(file_path, column_name):
     
     return column_data
 
-def write_multiple_columns_to_csv(file_path, data_dict, encoding='latin-1'):
-    with open(file_path, mode='w', newline='') as csvfile:
+def write_row_to_csv(file_path, row):
+    with open(file_path, mode='a', newline='', encoding='latin-1') as csvfile:
         csvwriter = csv.writer(csvfile)
-        
-        # Write the header row (column names)
-        csvwriter.writerow(data_dict.keys())
-        
-        # Write the rows
-        rows = zip(*data_dict.values())
-        csvwriter.writerows(rows)
+        csvwriter.writerow(row)
 
-def process_domains(domains):
-    mx_records = []
-    email_provider = []
+def check_provider(mx_record):
+    if ('google' in mx_record) or ('GOOGLE' in mx_record):
+        return "Google"
+    elif ('outlook' in mx_record) or ('OUTLOOK' in mx_record):
+        return "Microsoft"
+    elif ('MX NOT FOUND' in mx_record) or ('DOMAIN NON EXIST' in mx_record) or (mx_record == "") or (mx_record == "ERR"):
+        return "N/A"
+    else:
+        return "Third Party"
+
+def process_domains(domains, file_path):
     cache = {}
     count = 1
 
@@ -36,68 +38,49 @@ def process_domains(domains):
         print(f"{domain} -------- {count}/{len(domains)}")
         count = count + 1
         if domain in cache.keys():
-            mx_records.append(cache[domain])
+            mx_string = cache[domain]
+            provider = check_provider(mx_string)
+            write_row_to_csv(file_path, [domain, mx_string, provider])
             continue
 
         if (domain == ' ') or (domain == ''):
-            mx_records.append("")
+            mx_string = ""
+            provider = check_provider(mx_string)
+            write_row_to_csv(file_path, [domain, mx_string, provider])
             continue
-        mx_list = []
 
         try:
             mx = dns.resolver.resolve(domain[1:], 'MX')
+            mx_list = []
             for rdata in mx:
                 mx_list.append(rdata.to_text())
             mx_string = ' / '.join(mx_list)
-            mx_records.append(mx_string)
-            cache[domain] = mx_string
         except dns.resolver.NoAnswer:
-            mx_records.append('MX NOT FOUND')
+            mx_string = 'MX NOT FOUND'
             cache[domain] = 'MX NOT FOUND'
         except dns.resolver.NXDOMAIN:
-            mx_records.append('DOMAIN NON EXIST')
+            mx_string = 'DOMAIN NON EXIST'
             cache[domain] = 'DOMAIN NON EXIST'
-    
-    for mx_record in mx_records:
-        if ('google' in mx_record) or ('GOOGLE' in mx_record):
-            email_provider.append("Google")
-        elif ('outlook' in mx_record) or ('OUTLOOK' in mx_record):
-            email_provider.append("Microsoft")
-        elif ('MX NOT FOUND' in mx_record) or ('DOMAIN NON EXIST' in mx_record) or (mx_record == ""):
-            email_provider.append("N/A")
-        else:
-            email_provider.append("Third Party")
-
-    return mx_records, email_provider
+        except:
+            mx_string = 'ERR'
+            cache[domain] = 'ERR'
+        
+        provider = check_provider(mx_string)
+        write_row_to_csv(file_path, [domain, mx_string, provider])
 
 """
-d = ['@jazz.com.pk']
-m, p = process_domains(d)
+d = ['@frontiercargroup.com']
+process_domains(d, 'domain1.csv')
 
 print(d)
-print(m)
-print(p)
 """
 
-
-
 domain1 = read_column_to_list('domains.csv', 'domain1')
-mx1, provider1 = process_domains(domain1)
-output1 = {}
-output1['domain1'] = domain1
-output1['mx1'] = mx1
-output1['provider1'] = provider1
-write_multiple_columns_to_csv('domain1.csv', output1)
-print("\n\n")
+process_domains(domain1, 'domain1.csv')
 print("WRITTEN OUTPUT1")
 
 domain2 = read_column_to_list('domains.csv', 'domain1')
-mx2, provider2 = process_domains(domain2)
-output2 = {}
-output2['domain2'] = domain2
-output2['mx2'] = mx2
-output2['provider2'] = provider2
-write_multiple_columns_to_csv('domain2.csv', output2)
+process_domains(domain2, 'domain2.csv')
 print("\n\n")
 print("WRITTEN OUTPUT2")
 
